@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: mailto:cipherunit.dev@gmail.com
+    about: Please report security issues privately — see SECURITY.md, do not open a public issue.
+  - name: General question / discussion
+    url: https://github.com/orgs/cipherunits/discussions
+    about: Ask questions or start a discussion with the community.
