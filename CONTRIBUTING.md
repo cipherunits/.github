@@ -65,7 +65,7 @@ Examples: `feat(header): add responsive dropdown`, `fix(otp): correct input sizi
 
 ## Reporting bugs / requesting features
 
-Please use the issue templates provided in this repository (Bug Report / Feature Request) rather than opening a blank issue — it helps us triage faster.
+Please use the issue forms (Bug report / Feature request) rather than opening a blank issue — it helps us triage faster.
 
 ## Code of Conduct
 
@@ -74,6 +74,10 @@ By participating, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md
 ## Security issues
 
 Do **not** open a public issue for security vulnerabilities. See [SECURITY.md](./SECURITY.md) instead.
+
+## Getting help
+
+See [SUPPORT.md](./SUPPORT.md) for questions, discussions, and contact options.
 
 ---
 

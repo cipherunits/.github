@@ -1,28 +1,15 @@
-# Cipher Units
+# .github
 
-Building open-source tools for developers, by developers.
+Org-level defaults for [Cipher Units](https://github.com/cipherunits) — community health files, issue/PR templates, and the organization profile README.
 
-We're a small, community-driven org focused on practical developer tooling — from crypto/token utilities to infrastructure that keeps development alive when it's needed most.
+| Path | Purpose |
+| --- | --- |
+| [`profile/README.md`](./profile/README.md) | Public organization profile |
+| [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) | Default code of conduct |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Default contributing guide |
+| [`SECURITY.md`](./SECURITY.md) | Default security policy |
+| [`SUPPORT.md`](./SUPPORT.md) | Where to get help |
+| [`.github/ISSUE_TEMPLATE/`](./.github/ISSUE_TEMPLATE/) | Default issue forms |
+| [`.github/PULL_REQUEST_TEMPLATE.md`](./.github/PULL_REQUEST_TEMPLATE.md) | Default pull request template |
 
-## 🔭 What we're building
-
-- **[CipherPortfolio](https://github.com/cipherunits/CipherPortfolio)** — Our official site, and a reference Next.js + TypeScript + Tailwind CSS v4 project.
-- **[CipherToken](https://github.com/cipherunits/CipherToken)** — High-performance token and crypto utilities in Rust, with PyO3 Python bindings.
-- **[npm-mirror](https://github.com/cipherunits/npm-mirror)** — An internal npm package cache/mirror to keep development running under unreliable connectivity.
-
-## 🤝 Contributing
-
-We welcome forks, issues, and pull requests. Start here:
-
-- [Contributing Guide](https://github.com/cipherunits/.github/blob/main/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/cipherunits/.github/blob/main/CODE_OF_CONDUCT.md)
-- [Security Policy](https://github.com/cipherunits/.github/blob/main/SECURITY.md)
-
-## 🌐 Links
-
-- Website: [cipherunit.xyz](https://cipherunit.xyz)
-- Contact: cipherunit.dev@gmail.com
-
----
-
-*Made with ❤️ for developers by Cipher Unit.*
+These files apply to any repository under the organization that does not define its own.

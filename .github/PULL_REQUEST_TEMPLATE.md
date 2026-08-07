@@ -14,7 +14,7 @@ Closes #<issue-number> (if applicable)
 
 ## Checklist
 
-- [ ] I've read [CONTRIBUTING.md](../CONTRIBUTING.md)
+- [ ] I've read [CONTRIBUTING.md](../../CONTRIBUTING.md)
 - [ ] Linter passes (`pnpm lint` / `make lint`)
 - [ ] Build passes (`pnpm build` / `make build-app`)
 - [ ] Tests added/updated, if applicable
