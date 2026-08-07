@@ -14,7 +14,7 @@ We're a community-driven organization focused on practical developer tooling —
 - **[npm-mirror](https://github.com/cipherunits/npm-mirror)** — Internal npm package cache/mirror for unreliable networks
 - **[fusion-gui](https://github.com/cipherunits/fusion-gui)** 
 - **[fusion-tool](https://github.com/cipherunits/fusion-tool)** 
-  - **[fusion-fr amework](https://github.com/cipherunits/fusion-framework)**
+- **[fusion-framework](https://github.com/cipherunits/fusion-framework)**
 
 
 
