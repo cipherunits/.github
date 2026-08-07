@@ -10,7 +10,11 @@ We're a community-driven organization focused on practical developer tooling —
 
 - **[CipherPortfolio](https://github.com/cipherunits/CipherPortfolio)** — Official site and a reference Next.js + TypeScript + Tailwind CSS v4 project
 - **[CipherToken](https://github.com/cipherunits/CipherToken)** — High-performance token and crypto utilities in Rust, with PyO3 Python bindings
+- **[CipherScope](https://github.com/cipherunits/CipherScope)** — Runtime visibility for modern applications. See what runs. Understand why.
 - **[npm-mirror](https://github.com/cipherunits/npm-mirror)** — Internal npm package cache/mirror for unreliable networks
+- **[fusion-gui](https://github.com/cipherunits/fusion-gui)** 
+- **[fusion-tool](https://github.com/cipherunits/fusion-tool)** 
+  - **[fusion-fr amework](https://github.com/cipherunits/fusion-framework)**
 
 
 
@@ -25,7 +29,7 @@ We welcome forks, issues, and pull requests.
 
 
 
-#### Links  
+#### Links
 
 - Website: [cipherunit.xyz](https://cipherunit.xyz)
 - Contact: [cipherunit.dev@gmail.com](mailto:cipherunit.dev@gmail.com)

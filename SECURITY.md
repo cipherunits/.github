@@ -6,7 +6,11 @@ This policy applies to all actively maintained repositories under the Cipher Uni
 
 - `CipherPortfolio`
 - `CipherToken`
+- `CipherScope`
 - `npm-mirror`
+- `fusion-gui`
+- `fusion-tool`
+- `fusion-framework`
 
 ## Reporting a vulnerability
 
