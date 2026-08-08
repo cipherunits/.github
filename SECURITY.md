@@ -11,6 +11,7 @@ This policy applies to all actively maintained repositories under the Cipher Uni
 - `fusion-gui`
 - `fusion-tool`
 - `fusion-framework`
+- `fusion-docs`
 
 ## Reporting a vulnerability
 
