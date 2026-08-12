@@ -16,6 +16,7 @@ We're a community-driven organization focused on practical developer tooling —
 - **[fusion-tool](https://github.com/cipherunits/fusion-tool)** 
 - **[fusion-framework](https://github.com/cipherunits/fusion-framework)**
 - **[fusion-docs](https://github.com/cipherunits/fusion-docs)**
+- **[fusion-snippet](https://github.com/cipherunits/fusion-snippet)**
 
 
 
