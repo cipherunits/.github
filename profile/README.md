@@ -14,8 +14,10 @@
 </h3>
 <br/>
 
-
+<p align="center">
 CipherUnit is a collective of developers crafting open-source systems, developer tools, and infrastructure with a focus on security, performance, and minimal design. Built for enginers who care about how things really work.
+
+</p>
 
 
 
