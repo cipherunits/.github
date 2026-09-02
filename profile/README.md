@@ -9,13 +9,15 @@
 
 <h1 align="center">Cipher Units</h1>
 
-<p align="center">
+<h3 align="center">
   Building open-source tools for developers, by developers.
-</p>
+</h3>
+<br/>
 
-We're a developer collective building open-source systems, tools, and infrastructure for engineers who care about how software really works.
 
-We focus on security, performance, reliability, and minimal design — without unnecessary complexity.
+CipherUnit is a collective of developers crafting open-source systems, developer tools, and infrastructure with a focus on security, performance, and minimal design. Built for enginers who care about how things really work.
+
+
 
 ---
 
