@@ -1,14 +1,21 @@
-<p align="center">
-  <img src="../assets/cipher-units-banner.png" alt="Cipher Units" width="100%" />
-</p>
+<div align="center">
+  <img
+    src="../assets/cipher-units-banner.png"
+    alt="Cipher Units"
+    width="100%"
+    style="border-radius: 16px;"
+  />
+</div>
 
-<h3 align="center">Cipher Units</h3>
+<h1 align="center">Cipher Units</h1>
 
 <p align="center">
   Building open-source tools for developers, by developers.
 </p>
 
-We're a community-driven organization focused on practical developer tooling — from crypto/token utilities to infrastructure that keeps development moving when connectivity is unreliable.
+We're a developer collective building open-source systems, tools, and infrastructure for engineers who care about how software really works.
+
+We focus on security, performance, reliability, and minimal design — without unnecessary complexity.
 
 ---
 
@@ -19,11 +26,11 @@ We're a community-driven organization focused on practical developer tooling —
 * **[CipherLogger](https://github.com/cipherunits/CipherLogger)** — See every request. Capture every error. Understand your application.
 * **[CipherScope](https://github.com/cipherunits/CipherScope)** — Runtime visibility for modern applications. See what runs. Understand why.
 * **[npm-mirror](https://github.com/cipherunits/npm-mirror)** — Internal npm package cache/mirror for unreliable networks
-* **[fusion-gui](https://github.com/cipherunits/fusion-gui)** — One Framework, Multiple Languages, Unlimited Possibilities for visual application development
-* **[fusion-tool](https://github.com/cipherunits/fusion-tool)** — One Framework, Multiple Languages, Unlimited Possibilities through a powerful CLI
-* **[fusion-framework](https://github.com/cipherunits/fusion-framework)** — One Framework, Multiple Languages, Unlimited Possibilities for modern application development
-* **[fusion-docs](https://github.com/cipherunits/fusion-docs)** — One Framework, Multiple Languages, Unlimited Possibilities through comprehensive documentation
-* **[fusion-snippet](https://github.com/cipherunits/fusion-snippet)** — One Framework, Multiple Languages, Unlimited Possibilities with reusable development snippets
+- **[fusion-framework](https://github.com/cipherunits/fusion-framework)** — One Framework, Multiple Languages, Unlimited Possibilities for modern application development
+- **[fusion-tool](https://github.com/cipherunits/fusion-tool)** — A focused CLI for creating, managing, and working with Fusion projects
+- **[fusion-docs](https://github.com/cipherunits/fusion-docs)** — The technical reference for understanding and building with the Fusion ecosystem
+- **[fusion-snippet](https://github.com/cipherunits/fusion-snippet)** — Reusable patterns and snippets for faster, more consistent development
+- **[fusion-gui](https://github.com/cipherunits/fusion-gui)** — A visual workspace for designing and managing Fusion applications
 
 ---
 
