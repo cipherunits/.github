@@ -6,6 +6,7 @@ This policy applies to all actively maintained repositories under the Cipher Uni
 
 - `CipherPortfolio`
 - `CipherToken`
+- `CipherLogger`
 - `CipherScope`
 - `npm-mirror`
 - `fusion-gui`
